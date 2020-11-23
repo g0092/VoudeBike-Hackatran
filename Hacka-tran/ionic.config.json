@@ -1,0 +1,7 @@
+{
+  "name": "Hacka-tran",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
